@@ -1,4 +1,4 @@
 
-I'm learning html, css, and java
+I'm learning html, css, and javascript 
 
 
